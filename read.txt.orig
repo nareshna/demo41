@@ -1,5 +1,7 @@
 this is the read file
 this is the read branch
+<<<<<<< HEAD
 this is the read1
+=======
 this is the read branch file into
-
+>>>>>>> app
